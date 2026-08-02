@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi there 👋 I'm Ravi
 
-<!--
-**RaviBarnwal22/ravibarnwal22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Product Manager at IBM, building enterprise software and AI-powered products.
 
-Here are some ideas to get you started:
+🏗️ Founder of Prodsnap — an AI-powered platform for Product Management interview preparation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🌱 Currently learning
+
+LLMs & Agentic AI
+Developer Tools & DevEx
+Cloud, APIs & AI Engineering
+
+🔭 Currently building
+
+AI applications and side projects
+Prodsnap
+Open-source experiments
+
+💬 Ask me about
+
+Product Management
+AI Product Strategy
+Enterprise SaaS
+Engineering Lifecycle Management (ELM)
+
+📫 Connect with me
+
+LinkedIn: https://www.linkedin.com/in/barnwalravi/
+Website: https://prodsnap.in
+
+⚡ Fun fact
+I believe the best way to learn is by building, shipping, and sharing.
 -->
