@@ -21,7 +21,6 @@ Open-source experiments
 Product Management
 AI Product Strategy
 Enterprise SaaS
-Engineering Lifecycle Management (ELM)
 
 📫 Connect with me
 
