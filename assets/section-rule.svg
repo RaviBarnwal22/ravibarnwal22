@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 18" role="img" aria-hidden="true">
+  <title>Decorative section rule</title>
+  <defs>
+    <linearGradient id="rbRuleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2F9E8F" stop-opacity="0"/>
+      <stop offset="35%" stop-color="#2F9E8F"/>
+      <stop offset="65%" stop-color="#C9A36A"/>
+      <stop offset="100%" stop-color="#C9A36A" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="18" fill="#070B14"/>
+  <path d="M80 9 H1200" stroke="url(#rbRuleGrad)" stroke-width="1"/>
+  <circle cx="640" cy="9" r="2.2" fill="#C9A36A"/>
+</svg>

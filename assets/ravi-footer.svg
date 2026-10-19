@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 120" role="img" aria-labelledby="rbFootTitle rbFootDesc">
+  <title id="rbFootTitle">Ravi Barnwal profile footer</title>
+  <desc id="rbFootDesc">Minimal closing mark for Ravi Barnwal. Decorative motion is optional; the name and line remain readable when animation is disabled.</desc>
+  <defs>
+    <linearGradient id="rbFootBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070B14"/>
+      <stop offset="100%" stop-color="#0C1424"/>
+    </linearGradient>
+    <linearGradient id="rbFootLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2F9E8F" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#2F9E8F"/>
+      <stop offset="80%" stop-color="#C9A36A"/>
+      <stop offset="100%" stop-color="#C9A36A" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="rbFootGlow" x="-10%" y="-80%" width="120%" height="260%">
+      <feGaussianBlur stdDeviation="2.4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      @media (prefers-reduced-motion: reduce) {
+        animate, animateTransform { display: none; }
+      }
+    </style>
+  </defs>
+  <rect width="1280" height="120" fill="url(#rbFootBg)"/>
+  <path d="M80 38 H1200" stroke="url(#rbFootLine)" stroke-width="1.1" fill="none" filter="url(#rbFootGlow)"/>
+  <circle cx="640" cy="38" r="3.2" fill="#C9A36A">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="3.6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="640" y="74" text-anchor="middle" fill="#F3EDE2" font-family="Georgia, 'Times New Roman', serif" font-size="16" letter-spacing="3.2">RAVI BARNWAL</text>
+  <text x="640" y="96" text-anchor="middle" fill="#8FB4C4" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" letter-spacing="1.4">Shaping AI products  |  shipping with clarity  |  leading at scale</text>
+</svg>

@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 420" role="img" aria-labelledby="rbHeroTitle rbHeroDesc">
+  <title id="rbHeroTitle">Ravi Barnwal - AI Product Manager</title>
+  <desc id="rbHeroDesc">Editorial profile banner for Ravi Barnwal, AI Product Manager at IBM. Animated gradients and orbital geometry are decorative; the name and role remain readable if motion is disabled.</desc>
+  <defs>
+    <linearGradient id="rbHeroBgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070B14">
+        <animate attributeName="stop-color" values="#070B14;#0C1424;#070B14" dur="16s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="48%" stop-color="#101A2E">
+        <animate attributeName="stop-color" values="#101A2E;#162238;#101A2E" dur="18s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#0A1C22">
+        <animate attributeName="stop-color" values="#0A1C22;#123038;#0A1C22" dur="20s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <radialGradient id="rbHeroGlowA" cx="22%" cy="30%" r="42%">
+      <stop offset="0%" stop-color="#C9A36A" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#C9A36A" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="rbHeroGlowB" cx="78%" cy="70%" r="46%">
+      <stop offset="0%" stop-color="#2F9E8F" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#2F9E8F" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="rbHeroPathGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2F9E8F" stop-opacity="0"/>
+      <stop offset="28%" stop-color="#2F9E8F"/>
+      <stop offset="70%" stop-color="#C9A36A"/>
+      <stop offset="100%" stop-color="#E4C48A" stop-opacity="0.2"/>
+    </linearGradient>
+    <linearGradient id="rbHeroNameGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#F3EDE2"/>
+      <stop offset="100%" stop-color="#C9A36A"/>
+    </linearGradient>
+    <linearGradient id="rbHeroUnderline" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2F9E8F" stop-opacity="0"/>
+      <stop offset="18%" stop-color="#2F9E8F"/>
+      <stop offset="58%" stop-color="#C9A36A"/>
+      <stop offset="100%" stop-color="#C9A36A" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="rbHeroSoftGlow" x="-20%" y="-40%" width="140%" height="180%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="rbHeroNameGlow" x="-10%" y="-30%" width="120%" height="160%">
+      <feGaussianBlur stdDeviation="2.2" result="glow"/>
+      <feMerge>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="rbHeroGrid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#8FB4C4" stroke-opacity="0.08" stroke-width="0.6"/>
+    </pattern>
+    <mask id="rbHeroFadeMask">
+      <rect width="1280" height="420" fill="url(#rbHeroMaskGrad)"/>
+    </mask>
+    <linearGradient id="rbHeroMaskGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#fff" stop-opacity="0.15"/>
+      <stop offset="18%" stop-color="#fff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="0.05"/>
+    </linearGradient>
+    <style>
+      .rb-static { opacity: 1; }
+      @media (prefers-reduced-motion: reduce) {
+        .rb-motion { display: none; }
+        animate, animateTransform { display: none; }
+      }
+    </style>
+  </defs>
+
+  <rect width="1280" height="420" fill="url(#rbHeroBgGrad)"/>
+  <rect width="1280" height="420" fill="url(#rbHeroGlowA)"/>
+  <rect width="1280" height="420" fill="url(#rbHeroGlowB)"/>
+  <rect width="1280" height="420" fill="url(#rbHeroGrid)" mask="url(#rbHeroFadeMask)"/>
+
+  <g opacity="0.9" transform="translate(980,210)">
+    <circle r="148" fill="none" stroke="#C9A36A" stroke-opacity="0.18" stroke-width="0.8"/>
+    <circle r="108" fill="none" stroke="#2F9E8F" stroke-opacity="0.22" stroke-width="0.8"/>
+    <circle r="68" fill="none" stroke="#8FB4C4" stroke-opacity="0.16" stroke-width="0.7"/>
+    <circle r="4" fill="#C9A36A" opacity="0.85"/>
+    <g class="rb-motion">
+      <g>
+        <circle cx="148" cy="0" r="3.2" fill="#C9A36A" filter="url(#rbHeroSoftGlow)"/>
+        <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="28s" repeatCount="indefinite"/>
+      </g>
+      <g>
+        <circle cx="0" cy="-108" r="2.8" fill="#2F9E8F" filter="url(#rbHeroSoftGlow)"/>
+        <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="22s" repeatCount="indefinite"/>
+      </g>
+      <g>
+        <circle cx="-48" cy="48" r="2.2" fill="#E4C48A"/>
+        <animateTransform attributeName="transform" type="rotate" from="40 0 0" to="400 0 0" dur="16s" repeatCount="indefinite"/>
+      </g>
+    </g>
+    <g class="rb-static" opacity="0.9">
+      <circle cx="104" cy="-76" r="2.4" fill="#C9A36A"/>
+      <circle cx="-92" cy="56" r="2.1" fill="#2F9E8F"/>
+    </g>
+  </g>
+
+  <path d="M40 318 C 180 268, 290 352, 430 300 S 680 230, 820 278 S 1080 340, 1240 250" fill="none" stroke="url(#rbHeroPathGrad)" stroke-width="1.6" stroke-linecap="round" opacity="0.9"/>
+  <path class="rb-motion" d="M40 318 C 180 268, 290 352, 430 300 S 680 230, 820 278 S 1080 340, 1240 250" fill="none" stroke="#F3EDE2" stroke-opacity="0.45" stroke-width="1.2" stroke-linecap="round" stroke-dasharray="12 220">
+    <animate attributeName="stroke-dashoffset" from="0" to="-232" dur="8s" repeatCount="indefinite"/>
+  </path>
+
+  <text x="72" y="78" fill="#C9A36A" font-family="Georgia, 'Times New Roman', serif" font-size="13" letter-spacing="6.4">BENGALURU  |  IBM  |  IIM BODH GAYA</text>
+  <text x="72" y="168" fill="url(#rbHeroNameGrad)" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700" letter-spacing="1.5" filter="url(#rbHeroNameGlow)">Ravi Barnwal</text>
+  <rect x="72" y="186" width="248" height="2.2" rx="1" fill="url(#rbHeroUnderline)" filter="url(#rbHeroSoftGlow)"/>
+  <rect class="rb-motion" x="72" y="186" width="248" height="2.2" rx="1" fill="#E4C48A" opacity="0.35">
+    <animate attributeName="opacity" values="0.15;0.65;0.15" dur="4.8s" repeatCount="indefinite"/>
+    <animate attributeName="width" values="168;248;168" dur="7s" repeatCount="indefinite"/>
+  </rect>
+  <text x="72" y="230" fill="#E8E4DC" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" letter-spacing="1.1">AI Product Manager  |  Enterprise Platforms  |  GenAI</text>
+  <text x="72" y="268" fill="#8FB4C4" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15">Owning strategy, roadmaps, and AI-enabled workflows for products at 60M+ user scale.</text>
+</svg>
