@@ -1,136 +1,171 @@
-<p align="center">
-  <img src="assets/ravi-hero.svg" alt="Ravi Barnwal — AI Product Manager, Enterprise Platforms, GenAI" width="100%">
-</p>
+# `$ whoami`
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/barnwalravi/">LinkedIn</a>
-  ·
-  <a href="https://github.com/RaviBarnwal22">GitHub</a>
-  ·
-  <a href="https://prodsnap.in">Prodsnap</a>
-  ·
-  <a href="https://mocksetu.in">MockSetu</a>
-  ·
-  <a href="https://www.linkedin.com/newsletters/prodsnap-7248247994762854400/">Newsletter</a>
-  ·
-  <a href="mailto:ravibarnwal22@gmail.com">Email</a>
-</p>
+**Ravi Barnwal** · AI Product Manager · Product Builder · Bengaluru, India
 
-<p align="center">
-  <img src="assets/section-rule.svg" alt="" width="100%">
-</p>
+I build products at the intersection of **AI, enterprise software, and real-world problems**. My work spans enterprise SaaS, government platforms, automotive products, and healthcare technology.
 
-## Introduction
+- **60M+ citizens** served by a statewide digital platform I helped build.
+- **Enterprise AI:** LLM workflows, AI agents, MCP, and engineering lifecycle management.
+- **Building:** [Prodsnap](https://prodsnap.in) and [MockSetu](https://mocksetu.in).
+- **Background:** IBM · KPMG · Maruti Suzuki · Infosys.
+- **Education:** MBA Gold Medalist, IIM Bodh Gaya.
+- **Connect:** [LinkedIn](https://www.linkedin.com/in/barnwalravi/) · [Email](mailto:ravibarnwal22@gmail.com)
 
-I am **Ravi Barnwal**, an AI Product Manager based in Bengaluru. I build and scale enterprise SaaS, digital platforms, and AI-powered products across IBM, KPMG, Maruti Suzuki, and Infosys.
+---
 
-I own product strategy, roadmaps, platform capabilities, APIs/integrations, and end-to-end delivery in complex, cross-functional environments. I use customer insights, analytics, and AI to improve workflows, drive adoption, and deliver business outcomes at **60M+ user scale**.
+## `$ cat current_focus.md`
 
-Currently: Product Strategy for [IBM Engineering Lifecycle Management](https://www.ibm.com/products/engineering-lifecycle-management), with a focus on AI/GenAI workflows, LLMs, and AI agents. Founder of [Prodsnap](https://prodsnap.in). Co-founder of [MockSetu](https://mocksetu.in). Author of the [Prodsnap Newsletter](https://www.linkedin.com/newsletters/prodsnap-7248247994762854400/) (1,800+ subscribers) on AI, enterprise products, and product leadership.
+```text
+AI PRODUCT MANAGEMENT
+    ├── Enterprise AI & agentic workflows
+    ├── LLM applications and evaluation
+    ├── MCP and API integrations
+    └── AI governance and human-in-the-loop systems
 
-I am also exploring LLMs, agentic AI, developer tools, cloud, APIs, and AI engineering by shipping side projects.
+PRODUCT BUILDING
+    ├── Prodsnap  → AI-powered PM interview practice
+    ├── MockSetu  → Online assessments for educators
+    └── Experiments → Developer tools and AI applications
+```
 
-## Achievements and certifications
+I enjoy moving from an ambiguous problem to a shipped product: understanding users, defining the solution, working through technical trade-offs, and measuring outcomes.
 
-Verified from my resume, existing GitHub profile, and linked credentials. No rankings or counts are invented.
+## `$ git log --graph --oneline` · career
 
-| Signal | Detail |
-| --- | --- |
-| IBM | Awarded RSUs within 4 months for strategic product contribution. Represented IBM at product and technology forums in the US and Europe. Recognized as an [IBM Mentor](https://www.credly.com/badges/5dde6a8f-5b6d-4180-8a19-57e800cc9ae6) (issued 14 Aug 2025). Recognized as a top contributor for volunteering activities in 2025. |
-| KPMG | Awarded “Above and Beyond” by the KPMG CEO for a statewide platform launch. Recognized by the Hon’ble Revenue Minister of Karnataka for digital transformation impact. Increased daily revenue by approx. **10%** within 3 months of launch. |
-| Maruti Suzuki | Quarterly award (given to 8% of employees) for PAN-India initiatives. Exceeded FY21–22 revenue goals by **40+ cr**. High Performer rating in the first year. PPO from internship (7 selected PAN-India). |
-| Infosys | 2nd runner-up, Game-e-thon (AFE ’18). INSTA Award for designing a PET table. Client recommendation for leading a team of 5. |
-| Education | MBA, IIM Bodh Gaya (2020) — 1st Division, **Gold Medal / Best Student Awardee (2018–20)**. B.Tech (EEE), NIST Berhampur (2015) — 7.81/10, 1st Division. |
-| Community | Top Mentor at Unstop (4.9 rating). Guest of Honor at IIM for a new MBA batch. Product management speaker across forums and MBA colleges. Toastmasters International: multiple Best Speaker, Best Evaluator, and Best Role Player awards. Represented India as a youth ambassador to China (selected among the top 200 youths of India by the Government of India). |
+```text
+* AI product building & enterprise software
+|
+* IBM
+| Product strategy · Engineering Lifecycle Management
+| AI agents · MCP · Customer discovery · Adoption
+|
+* KPMG
+| Kaveri 2.0 · Statewide government SaaS
+| 60M+ citizens · 256 government offices
+|
+* Maruti Suzuki
+| Customer Convenience Package · 0 → 1
+| ₹100+ crore annual revenue impact
+|
+* Infosys
+| Healthcare technology · Business analysis
+| Software development · Client delivery
+```
 
-**Certifications**
+### Selected impact
 
-- Certified Scrum Product Owner®, Scrum Alliance — Certificate ID `001548526`
-- Product management certification
-- Tableau badges: Analyst, Desktop, Author
-- [IBM Mentor](https://www.credly.com/badges/5dde6a8f-5b6d-4180-8a19-57e800cc9ae6) — Credly
+- **IBM:** Developed AI solution accelerators and go-to-market enablement for enterprise engineering workflows; contributed to AI Hub initiatives and customer-facing demonstrations.
+- **KPMG:** Helped deliver Kaveri 2.0, improving a statewide registration workflow from days to approximately four hours.
+- **Maruti Suzuki:** Helped launch a nationwide customer convenience offering with over ₹100 crore in annual revenue impact.
+- **Infosys:** Worked across healthcare technology, business analysis, and software development.
 
-## Selected work
+## `$ ls ~/projects` · things I build
 
-Public products and professional work with a working link. Outcomes below are taken from my resume.
+### 01. [Prodsnap](https://prodsnap.in)
 
-### Prodsnap
-AI-powered interview platform using LLMs, prompt engineering, evaluation pipelines, and personalized feedback to simulate product-management interviews.
+**AI-powered product management interview practice.**
 
-[Live product](https://prodsnap.in) · [Repository](https://github.com/RaviBarnwal22/Prodsnap)
+An AI application that helps aspiring product managers practice interviews and receive structured, personalized feedback.
 
-### MockSetu
-Two-sided assessment platform where educators create mock exams and learners attempt them online, with analytics for performance and engagement.
+- LLM-powered interview simulations
+- Prompt engineering and evaluation workflows
+- Feedback designed around product thinking and communication
+
+`AI` `LLMs` `Prompt Engineering` `Product Management`
+
+[Live product](https://prodsnap.in) · [GitHub repository](https://github.com/RaviBarnwal22/Prodsnap)
+
+### 02. [MockSetu](https://mocksetu.in)
+
+**Online assessments for educators and learners.**
+
+A two-sided assessment platform that enables educators to create mock exams and learners to attempt tests online, with performance analytics.
+
+- Educator-led assessment creation
+- Online mock tests and learner workflows
+- Performance and engagement analytics
+
+`EdTech` `Assessment Platforms` `Analytics`
 
 [Live product](https://mocksetu.in)
 
-### IBM Engineering Lifecycle Management
-Own product strategy, roadmap, and prioritization for ELM. Drive discovery through customer research, usage analytics, and competitive benchmarking. Define PRDs, user stories, API requirements, and success metrics. Develop AI-enabled workflows and solution accelerators with LLMs and AI agents.
+### 03. [Flight Lookup](https://github.com/RaviBarnwal22/flight-lookup)
 
-[Product](https://www.ibm.com/products/engineering-lifecycle-management) · Mar 2024 – Present
+**A lightweight flight-status application.**
 
-### Kaveri 2.0 — KPMG
-Owned strategy, roadmap, and end-to-end delivery for a large-scale SaaS platform serving **60M+ users** across **256 government offices**. Led discovery through UAT, production rollout, and post-launch optimization, including secure API integrations across government systems.
+A practical experiment in building a focused application around flight information and lookup workflows.
 
-[Public portal](https://kaveri.karnataka.gov.in/landing-page) · May 2022 – Mar 2024
+`APIs` `Application Development`
 
-### Customer Convenience Package — Maruti Suzuki
-Led the offering from opportunity identification through nationwide launch with Sales, Operations, and Technology. Used market research, customer behavior, and business analytics to shape a scalable offering with **₹1B+** annual revenue impact.
+[Repository](https://github.com/RaviBarnwal22/flight-lookup)
 
-[Press release](https://www.marutisuzuki.com/corporate/media/press-releases/2022/march/maruti-suzuki-introduces-a-new-customer-convenience-package) · Jul 2020 – May 2022
+### 04. [AI Induction](https://github.com/RaviBarnwal22/Ai-Induction)
 
-### Other public experiments
-- [flight-lookup](https://github.com/RaviBarnwal22/flight-lookup) — app to check flight status
-- [Ai-Induction](https://github.com/RaviBarnwal22/Ai-Induction)
+An AI-focused experiment exploring practical applications of artificial intelligence.
 
-## Skills
+[Repository](https://github.com/RaviBarnwal22/Ai-Induction)
 
-Grouped from my resume and public profile. These are capabilities I use in product work, not a language-percentage chart.
+---
 
-**Product leadership**  
-Platform product management · Product strategy and roadmapping · Product lifecycle management · Product requirements and specifications · Cross-functional collaboration · GTM narratives and technical enablement
+## `$ cat product_principles.md`
 
-**AI and platforms**  
-AI/GenAI product management · LLMs and AI agents · Enterprise SaaS and digital platforms · API products and integrations · Workflow optimization
+```text
+01. Start with the user problem, not the technology.
+02. Make the smallest useful thing work end to end.
+03. Treat APIs and integrations as product capabilities.
+04. Measure adoption and business outcomes, not just delivery.
+05. Use AI where it creates measurable value.
+06. Ship, learn, iterate.
+```
 
-**Delivery and experience**  
-Agile/Scrum · Product delivery · Customer experience and user-centric design · UAT and production rollout
+## `$ stack --list`
 
-**Analytics and tools**  
-Product analytics and data-driven decisions · Experimentation and market intelligence · Tableau (Analyst, Desktop, Author)
+**AI & GenAI**
 
-## GitHub contribution heatmap
+LLMs · AI Agents · Prompt Engineering · MCP · AI Product Strategy
 
-Live contribution calendar from GitHub public activity via [ghchart](https://ghchart.rshah.org). This is not a mocked illustration.
+**Product**
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/C9A36A/RaviBarnwal22" alt="GitHub contribution heatmap for RaviBarnwal22" width="100%">
-</p>
+Product Discovery · Roadmapping · PRDs · Prioritization · Product Analytics · GTM Strategy
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaviBarnwal22&bg_color=070B14&color=E8E4DC&line=C9A36A&point=2F9E8F&area=true&area_color=C9A36A&hide_border=true&custom_title=Recent%20public%20GitHub%20activity" alt="Recent public GitHub activity for RaviBarnwal22" width="100%">
-</p>
+**Platforms**
 
-## GitHub statistics
+Enterprise SaaS · APIs · Integrations · Workflow Automation · Regulated Software
 
-Live cards from GitHub’s public API (via [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)). Rank badges are hidden because they are third-party heuristics, not verified claims. Counts can lag and only include what the service can see on public repositories.
+**Execution**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaviBarnwal22&show_icons=true&hide_title=false&hide_rank=true&hide_border=true&bg_color=070B14&title_color=C9A36A&icon_color=2F9E8F&text_color=E8E4DC&ring_color=C9A36A" alt="Live GitHub statistics for RaviBarnwal22">
-</p>
+Agile/Scrum · Cross-functional Delivery · UAT · Production Rollouts · Customer Research
 
-## Profiles
+**Tools**
 
-| Profile | Link |
-| --- | --- |
-| LinkedIn | [linkedin.com/in/barnwalravi](https://www.linkedin.com/in/barnwalravi/) |
-| GitHub | [github.com/RaviBarnwal22](https://github.com/RaviBarnwal22) |
-| Prodsnap | [prodsnap.in](https://prodsnap.in) |
-| MockSetu | [mocksetu.in](https://mocksetu.in) |
-| Newsletter | [Prodsnap on LinkedIn](https://www.linkedin.com/newsletters/prodsnap-7248247994762854400/) |
-| Credly | [IBM Mentor badge](https://www.credly.com/badges/5dde6a8f-5b6d-4180-8a19-57e800cc9ae6) |
-| Email | [ravibarnwal22@gmail.com](mailto:ravibarnwal22@gmail.com) |
+Jira · Tableau · GitHub · AI Development Tools
 
-<p align="center">
-  <img src="assets/ravi-footer.svg" alt="Ravi Barnwal — shaping AI products, shipping with clarity, leading at scale" width="100%">
-</p>
+## `$ cat achievements.md`
+
+- **KPMG:** Above and Beyond award from the CEO for statewide platform delivery.
+- **Karnataka Government:** Recognized by the Hon’ble Revenue Minister for digital transformation impact.
+- **IBM:** IBM Mentor badge and early RSU recognition for product contributions.
+- **IIM Bodh Gaya:** MBA Gold Medal / Best Student Award.
+- **Unstop:** Top Mentor recognition, 4.9 rating.
+- **Community:** Hackathon judge, product management speaker, and mentor to aspiring product managers.
+
+## `$ git contributions`
+
+![GitHub contribution graph](https://ghchart.rshah.org/C9A36A/RaviBarnwal22)
+
+![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RaviBarnwal22&bg_color=070B14&color=E8E4DC&line=C9A36A&point=2F9E8F&area=true&hide_border=true&custom_title=Recent%20GitHub%20Activity)
+
+## `$ ./connect`
+
+[LinkedIn](https://www.linkedin.com/in/barnwalravi/) · [GitHub](https://github.com/RaviBarnwal22) · [Prodsnap](https://prodsnap.in) · [MockSetu](https://mocksetu.in) · [Newsletter](https://www.linkedin.com/newsletters/prodsnap-7248247994762854400/) · [Email](mailto:ravibarnwal22@gmail.com)
+
+```bash
+while (learning) {
+    build();
+    ship();
+    measure();
+    improve();
+}
+```
+
+*Building useful products. Learning by shipping.*
