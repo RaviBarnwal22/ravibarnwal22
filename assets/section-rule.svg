@@ -1,14 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 18" role="img" aria-hidden="true">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 18" width="1280" height="18" role="img" aria-hidden="true">
   <title>Decorative section rule</title>
   <defs>
-    <linearGradient id="rbRuleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#2F9E8F" stop-opacity="0"/>
-      <stop offset="35%" stop-color="#2F9E8F"/>
-      <stop offset="65%" stop-color="#C9A36A"/>
-      <stop offset="100%" stop-color="#C9A36A" stop-opacity="0"/>
+    <linearGradient id="rbrGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#C77B9B" stop-opacity="0"/><stop offset="0.35" stop-color="#C77B9B" stop-opacity="0.6"/>
+      <stop offset="0.5" stop-color="#701A3D"/><stop offset="0.65" stop-color="#C77B9B" stop-opacity="0.6"/><stop offset="1" stop-color="#C77B9B" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="rbrShine" gradientUnits="userSpaceOnUse" x1="-160" y1="0" x2="0" y2="0">
+      <animateTransform attributeName="gradientTransform" type="translate" values="80 0;1360 0" dur="6s" repeatCount="indefinite"/>
+      <stop offset="0" stop-color="#C77B9B" stop-opacity="0"/><stop offset="0.5" stop-color="#C77B9B"/><stop offset="1" stop-color="#C77B9B" stop-opacity="0"/>
     </linearGradient>
   </defs>
-  <rect width="1280" height="18" fill="#070B14"/>
-  <path d="M80 9 H1200" stroke="url(#rbRuleGrad)" stroke-width="1"/>
-  <circle cx="640" cy="9" r="2.2" fill="#C9A36A"/>
+  <path d="M80 9H1200" stroke="url(#rbrGrad)"/>
+  <path d="M80 9H1200" stroke="url(#rbrShine)" stroke-width="1.6"/>
+  <path d="M640 4.5L644.5 9L640 13.5L635.5 9Z" fill="#C77B9B"><animateTransform attributeName="transform" type="rotate" values="0 640 9;90 640 9;90 640 9" keyTimes="0;0.15;1" dur="6s" repeatCount="indefinite"/></path>
 </svg>

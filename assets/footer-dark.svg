@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 150" width="1280" height="150" role="img" aria-labelledby="rbfDTitle">
+  <title id="rbfDTitle">Ravi Barnwal — shaping AI products, shipping with clarity, leading at scale</title>
+  <defs>
+    <linearGradient id="rbfDBg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#10070C"/><stop offset="1" stop-color="#190B12"/></linearGradient>
+    <linearGradient id="rbfDLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#C77B9B" stop-opacity="0"/><stop offset="0.3" stop-color="#C77B9B"/>
+      <stop offset="0.5" stop-color="#E5B5C7"/><stop offset="0.7" stop-color="#C77B9B"/><stop offset="1" stop-color="#C77B9B" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="rbfDGlow" x="-300%" y="-300%" width="700%" height="700%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <path id="rbfDWave" d="M140 44 C 300 30, 420 58, 640 44 S 980 30, 1140 44"><animate attributeName="d" values="M140 44 C 300 30, 420 58, 640 44 S 980 30, 1140 44;M140 44 C 300 58, 420 30, 640 44 S 980 58, 1140 44;M140 44 C 300 30, 420 58, 640 44 S 980 30, 1140 44" dur="8s" repeatCount="indefinite"/></path>
+  </defs>
+  <rect width="1280" height="150" rx="6" fill="url(#rbfDBg)"/>
+  <use xlink:href="#rbfDWave" href="#rbfDWave" fill="none" stroke="url(#rbfDLine)" stroke-width="1.2"/>
+  <path d="M140 44 C 300 58, 420 30, 640 44 S 980 58, 1140 44" fill="none" stroke="#C77B9B" stroke-opacity="0.25" stroke-width="0.8"><animate attributeName="d" values="M140 44 C 300 58, 420 30, 640 44 S 980 58, 1140 44;M140 44 C 300 30, 420 58, 640 44 S 980 30, 1140 44;M140 44 C 300 58, 420 30, 640 44 S 980 58, 1140 44" dur="8s" repeatCount="indefinite"/></path>
+  <circle r="2.8" fill="#E5B5C7" filter="url(#rbfDGlow)"><animateMotion dur="9s" repeatCount="indefinite" keyPoints="0;1;0" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"><mpath xlink:href="#rbfDWave" href="#rbfDWave"/></animateMotion></circle>
+  <circle cx="640" cy="44" r="4" fill="none" stroke="#C77B9B"><animate attributeName="r" values="4;12;4" dur="4.5s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.9;0;0.9" dur="4.5s" repeatCount="indefinite"/></circle>
+  <circle cx="640" cy="44" r="2.4" fill="#F8F0F3"/>
+  <text x="640" y="88" text-anchor="middle" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="17" letter-spacing="5">RAVI BARNWAL</text>
+  <text x="640" y="114" text-anchor="middle" fill="#C77B9B" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" letter-spacing="1.4">Shaping AI products  ·  shipping with clarity  ·  leading at scale</text>
+</svg>

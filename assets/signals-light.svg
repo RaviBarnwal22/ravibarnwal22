@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 190" width="1280" height="190" role="img" aria-labelledby="rbsLTitle rbsLDesc">
+  <title id="rbsLTitle">Selected outcomes</title>
+  <desc id="rbsLDesc">60M+ users on Kaveri 2.0 at KPMG; 256 government offices; ₹1B+ annual revenue impact from the Maruti Suzuki Customer Convenience Package; 1,800+ Prodsnap Newsletter subscribers.</desc>
+  <defs>
+    <linearGradient id="rbsLBg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFBFC"/><stop offset="0.5" stop-color="#F8F0F3"/><stop offset="1" stop-color="#FFFBFC"/>
+    </linearGradient>
+    <linearGradient id="rbsLSweep" gradientUnits="userSpaceOnUse" x1="-240" y1="0" x2="0" y2="0">
+      <animateTransform attributeName="gradientTransform" type="translate" values="0 0;1520 0" dur="9s" repeatCount="indefinite"/>
+      <stop offset="0" stop-color="#C77B9B" stop-opacity="0"/><stop offset="0.5" stop-color="#C77B9B"/><stop offset="1" stop-color="#C77B9B" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="rbsLNum" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#451126"/><stop offset="1" stop-color="#701A3D"/>
+    </linearGradient>
+    <linearGradient id="rbsLBar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#C77B9B" stop-opacity="0"/><stop offset="0.5" stop-color="#C77B9B"/><stop offset="1" stop-color="#C77B9B" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="190" rx="6" fill="url(#rbsLBg)"/>
+  <path d="M40 0.5H1240M40 189.5H1240" stroke="#E5B5C7"/>
+  <path d="M40 0.5H1240M40 189.5H1240" stroke="url(#rbsLSweep)" stroke-width="1.2"/>
+  <path d="M340 40V150M640 40V150M940 40V150" stroke="#E5B5C7"/>
+  <g font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" text-anchor="middle">
+    <g>
+      <path d="M190 30.5 l5 5 l-5 5 l-5 -5z" fill="#C77B9B"><animateTransform attributeName="transform" type="rotate" values="0 190 35.5;90 190 35.5;90 190 35.5" keyTimes="0;0.2;1" dur="4s" begin="0.0s" repeatCount="indefinite"/></path>
+      <text x="190" y="96" fill="url(#rbsLNum)" font-family="Georgia, 'Times New Roman', serif" font-size="52" font-weight="700">60M+</text>
+      <rect x="150" y="108" width="80" height="1.5" fill="url(#rbsLBar)"><animate attributeName="width" values="0;80;80;0" keyTimes="0;0.25;0.85;1" dur="5s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="x" values="190;150;150;230" keyTimes="0;0.25;0.85;1" dur="5s" begin="0.0s" repeatCount="indefinite"/></rect>
+      <text x="190" y="134" fill="#451126" font-size="15">users on Kaveri 2.0</text>
+      <text x="190" y="158" fill="#701A3D" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" letter-spacing="2">KPMG · KARNATAKA</text>
+    </g>
+    <g>
+      <path d="M490 30.5 l5 5 l-5 5 l-5 -5z" fill="#C77B9B"><animateTransform attributeName="transform" type="rotate" values="0 490 35.5;90 490 35.5;90 490 35.5" keyTimes="0;0.2;1" dur="4s" begin="0.6s" repeatCount="indefinite"/></path>
+      <text x="490" y="96" fill="url(#rbsLNum)" font-family="Georgia, 'Times New Roman', serif" font-size="52" font-weight="700">256</text>
+      <rect x="450" y="108" width="80" height="1.5" fill="url(#rbsLBar)"><animate attributeName="width" values="0;80;80;0" keyTimes="0;0.25;0.85;1" dur="5s" begin="0.6s" repeatCount="indefinite"/><animate attributeName="x" values="490;450;450;530" keyTimes="0;0.25;0.85;1" dur="5s" begin="0.6s" repeatCount="indefinite"/></rect>
+      <text x="490" y="134" fill="#451126" font-size="15">government offices</text>
+      <text x="490" y="158" fill="#701A3D" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" letter-spacing="2">KAVERI 2.0 ROLLOUT</text>
+    </g>
+    <g>
+      <path d="M790 30.5 l5 5 l-5 5 l-5 -5z" fill="#C77B9B"><animateTransform attributeName="transform" type="rotate" values="0 790 35.5;90 790 35.5;90 790 35.5" keyTimes="0;0.2;1" dur="4s" begin="1.2s" repeatCount="indefinite"/></path>
+      <text x="790" y="96" fill="url(#rbsLNum)" font-family="Georgia, 'Times New Roman', serif" font-size="52" font-weight="700">₹1B+</text>
+      <rect x="750" y="108" width="80" height="1.5" fill="url(#rbsLBar)"><animate attributeName="width" values="0;80;80;0" keyTimes="0;0.25;0.85;1" dur="5s" begin="1.2s" repeatCount="indefinite"/><animate attributeName="x" values="790;750;750;830" keyTimes="0;0.25;0.85;1" dur="5s" begin="1.2s" repeatCount="indefinite"/></rect>
+      <text x="790" y="134" fill="#451126" font-size="15">annual revenue impact</text>
+      <text x="790" y="158" fill="#701A3D" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" letter-spacing="2">MARUTI SUZUKI · CCP</text>
+    </g>
+    <g>
+      <path d="M1090 30.5 l5 5 l-5 5 l-5 -5z" fill="#C77B9B"><animateTransform attributeName="transform" type="rotate" values="0 1090 35.5;90 1090 35.5;90 1090 35.5" keyTimes="0;0.2;1" dur="4s" begin="1.8s" repeatCount="indefinite"/></path>
+      <text x="1090" y="96" fill="url(#rbsLNum)" font-family="Georgia, 'Times New Roman', serif" font-size="52" font-weight="700">1,800+</text>
+      <rect x="1050" y="108" width="80" height="1.5" fill="url(#rbsLBar)"><animate attributeName="width" values="0;80;80;0" keyTimes="0;0.25;0.85;1" dur="5s" begin="1.8s" repeatCount="indefinite"/><animate attributeName="x" values="1090;1050;1050;1130" keyTimes="0;0.25;0.85;1" dur="5s" begin="1.8s" repeatCount="indefinite"/></rect>
+      <text x="1090" y="134" fill="#451126" font-size="15">newsletter subscribers</text>
+      <text x="1090" y="158" fill="#701A3D" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" letter-spacing="2">PRODSNAP NEWSLETTER</text>
+    </g>
+  </g>
+</svg>
