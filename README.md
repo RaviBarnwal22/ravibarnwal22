@@ -7,12 +7,12 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/typing-dark.svg">
-  <img src="assets/typing-light.svg" alt="Owning product strategy for IBM Engineering Lifecycle Management · Building Prodsnap, the AI interviewer for product managers · Shipped a platform for 60M+ users across 256 government offices · Writing the Prodsnap Newsletter for 1,800+ subscribers · Exploring LLMs, agentic AI and developer tools by shipping" width="100%">
+  <img src="assets/typing-light.svg" alt="Owning AI product strategy for Regnology · Building Prodsnap, the AI interviewer for product managers · Shipped a platform for 60M+ users · Writing the Prodsnap Newsletter for 1,800+ subscribers · Exploring LLMs, agentic AI and developer tools by shipping" width="100%">
 </picture>
 
 <p align="center">
   <b>AI Product Manager · Enterprise Platforms · GenAI</b><br>
-  <sub>Bengaluru, India · Product Strategy, IBM Engineering Lifecycle Management · Founder, Prodsnap</sub>
+  <sub>Bengaluru, India · AI Product Strategy, Regnology · Founder, Prodsnap</sub>
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@
 
 ## Introduction
 
-I am **Ravi Barnwal**, an AI Product Manager based in Bengaluru. I build and scale enterprise SaaS, digital platforms, and AI-powered products across IBM, KPMG, Maruti Suzuki, and Infosys.
+I am **Ravi Barnwal**, an AI Product Manager based in Bengaluru. I build and scale enterprise SaaS, digital platforms, and AI-powered products across emagine, IBM, KPMG, Maruti Suzuki, and Infosys.
 
 I own product strategy, roadmaps, platform capabilities, APIs/integrations, and end-to-end delivery in complex, cross-functional environments. I use customer insights, analytics, and AI to improve workflows, drive adoption, and deliver business outcomes at **60M+ user scale**.
 
